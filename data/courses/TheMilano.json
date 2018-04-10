@@ -1,0 +1,31 @@
+[
+  
+    {
+      "id": "330d44fa-7e2d-4fda-bdb5-f96fa9c0258f",
+      "course": "The Milano",
+      "number": 1,
+      "par": 3
+    },
+  
+    {
+      "id": "03464ae3-a556-49ee-8526-b8b6d57450ab",
+      "course": "The Milano",
+      "number": 2,
+      "par": 4
+    },
+  
+    {
+      "id": "81c04a24-b874-4b97-aeec-fa237bee470b",
+      "course": "The Milano",
+      "number": 3,
+      "par": 5
+    },
+  
+    {
+      "id": "e848d24c-b050-49da-a898-83bee9ef0e97",
+      "course": "The Milano",
+      "number": 4,
+      "par": 5
+    }
+  
+]

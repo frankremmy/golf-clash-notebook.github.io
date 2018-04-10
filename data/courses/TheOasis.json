@@ -1,0 +1,31 @@
+[
+  
+    {
+      "id": "ef1b5866-306c-4a68-aa35-e385558a6889",
+      "course": "The Oasis",
+      "number": 1,
+      "par": 3
+    },
+  
+    {
+      "id": "1df2d79f-079a-4259-a846-07523700f877",
+      "course": "The Oasis",
+      "number": 2,
+      "par": 4
+    },
+  
+    {
+      "id": "c6dee008-9374-4e0f-8ae5-d7b456a1e970",
+      "course": "The Oasis",
+      "number": 3,
+      "par": 5
+    },
+  
+    {
+      "id": "1ac9e3f4-edfc-4c57-9635-5986e37c695b",
+      "course": "The Oasis",
+      "number": 4,
+      "par": 3
+    }
+  
+]

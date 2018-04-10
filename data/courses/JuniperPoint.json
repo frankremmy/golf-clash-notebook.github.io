@@ -1,0 +1,66 @@
+[
+  
+    {
+      "id": "f73bea1d-3683-48f8-92e8-12abddd88d16",
+      "course": "Juniper Point",
+      "number": 1,
+      "par": 4
+    },
+  
+    {
+      "id": "48316f6b-6037-4b43-8eff-7d4c345a0929",
+      "course": "Juniper Point",
+      "number": 2,
+      "par": 3
+    },
+  
+    {
+      "id": "b31d9248-cdb3-4549-933a-9d596a7d81ee",
+      "course": "Juniper Point",
+      "number": 3,
+      "par": 5
+    },
+  
+    {
+      "id": "c35b816e-75dd-4cda-83df-a4b6639d54f3",
+      "course": "Juniper Point",
+      "number": 4,
+      "par": 3
+    },
+  
+    {
+      "id": "c9d5cbe5-262e-49cb-a6f1-48e40918502a",
+      "course": "Juniper Point",
+      "number": 5,
+      "par": 5
+    },
+  
+    {
+      "id": "8f0fb665-4802-4f8f-a823-35b3cae6f26c",
+      "course": "Juniper Point",
+      "number": 6,
+      "par": 4
+    },
+  
+    {
+      "id": "7777d535-cb89-4d83-b8a7-831cc61fbc66",
+      "course": "Juniper Point",
+      "number": 7,
+      "par": 3
+    },
+  
+    {
+      "id": "833ca5f4-813c-4b4c-8194-fd508a6611c6",
+      "course": "Juniper Point",
+      "number": 8,
+      "par": 4
+    },
+  
+    {
+      "id": "84427923-664c-4701-a1f5-58108b952647",
+      "course": "Juniper Point",
+      "number": 9,
+      "par": 5
+    }
+  
+]

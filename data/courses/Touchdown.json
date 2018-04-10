@@ -1,0 +1,66 @@
+[
+  
+    {
+      "id": "905fbf57-0bed-4383-8bdf-3a2db07f54d4",
+      "course": "Touchdown",
+      "number": 1,
+      "par": 4
+    },
+  
+    {
+      "id": "2d79761e-7d37-40f5-9d96-80d4689b8705",
+      "course": "Touchdown",
+      "number": 2,
+      "par": 3
+    },
+  
+    {
+      "id": "d811edb2-7fe5-4e38-a29c-995b1722634b",
+      "course": "Touchdown",
+      "number": 3,
+      "par": 5
+    },
+  
+    {
+      "id": "e8e6844a-a3db-4f34-8800-633b230e2be5",
+      "course": "Touchdown",
+      "number": 4,
+      "par": 3
+    },
+  
+    {
+      "id": "99374ec0-978d-47d2-9eb6-ec1cdb1d1f57",
+      "course": "Touchdown",
+      "number": 5,
+      "par": 4
+    },
+  
+    {
+      "id": "f69eaec7-1010-4489-88c2-40dbc8ed2e40",
+      "course": "Touchdown",
+      "number": 6,
+      "par": 5
+    },
+  
+    {
+      "id": "68714fc8-2d57-494f-ad86-5e9f0e4761c9",
+      "course": "Touchdown",
+      "number": 7,
+      "par": 3
+    },
+  
+    {
+      "id": "035550dd-8da2-42af-b69b-677249421db5",
+      "course": "Touchdown",
+      "number": 8,
+      "par": 4
+    },
+  
+    {
+      "id": "5b78f5b8-1fd0-4a60-a56b-adb446589a5e",
+      "course": "Touchdown",
+      "number": 9,
+      "par": 5
+    }
+  
+]

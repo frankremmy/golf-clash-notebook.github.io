@@ -1,0 +1,66 @@
+[
+  
+    {
+      "id": "8be692b0-5d4f-4a46-a557-dd3cdff41f9c",
+      "course": "Haunted Hills",
+      "number": 1,
+      "par": 3
+    },
+  
+    {
+      "id": "ad378689-bd45-439c-84c0-78fc4e5cc483",
+      "course": "Haunted Hills",
+      "number": 2,
+      "par": 5
+    },
+  
+    {
+      "id": "9570b414-f125-4cca-8418-a7532e08aa3d",
+      "course": "Haunted Hills",
+      "number": 3,
+      "par": 3
+    },
+  
+    {
+      "id": "eaf44afd-cf3f-493f-916b-03e319206d71",
+      "course": "Haunted Hills",
+      "number": 4,
+      "par": 5
+    },
+  
+    {
+      "id": "8e86ac8d-f72a-435b-9312-35e382f506b4",
+      "course": "Haunted Hills",
+      "number": 5,
+      "par": 4
+    },
+  
+    {
+      "id": "f9c47bc5-7b4c-4709-9654-9979fed745a3",
+      "course": "Haunted Hills",
+      "number": 6,
+      "par": 4
+    },
+  
+    {
+      "id": "9925b05f-a66f-4b16-80cd-e8ccd6458d69",
+      "course": "Haunted Hills",
+      "number": 7,
+      "par": 3
+    },
+  
+    {
+      "id": "a7e7d3ee-22af-459b-a046-a7fc9d73446d",
+      "course": "Haunted Hills",
+      "number": 8,
+      "par": 4
+    },
+  
+    {
+      "id": "cb4e6479-839f-4a28-865f-7e537cc935e3",
+      "course": "Haunted Hills",
+      "number": 9,
+      "par": 5
+    }
+  
+]

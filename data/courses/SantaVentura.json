@@ -1,0 +1,66 @@
+[
+  
+    {
+      "id": "24fea90b-eadc-4a99-85b2-1efea61c6e85",
+      "course": "Santa Ventura",
+      "number": 1,
+      "par": 4
+    },
+  
+    {
+      "id": "30a00d7f-7319-473d-8156-d3f933f853e4",
+      "course": "Santa Ventura",
+      "number": 2,
+      "par": 3
+    },
+  
+    {
+      "id": "1906dee0-0a85-4adc-adbf-acaff2bc3f6f",
+      "course": "Santa Ventura",
+      "number": 3,
+      "par": 5
+    },
+  
+    {
+      "id": "1083f47b-b2a8-4dde-bfa2-0ea3b2a32073",
+      "course": "Santa Ventura",
+      "number": 4,
+      "par": 3
+    },
+  
+    {
+      "id": "f9a598d5-e52b-476c-8e38-a8cb4bd7f76e",
+      "course": "Santa Ventura",
+      "number": 5,
+      "par": 5
+    },
+  
+    {
+      "id": "be8071a9-f4a3-4dcf-aaba-b3adf94fdafa",
+      "course": "Santa Ventura",
+      "number": 6,
+      "par": 4
+    },
+  
+    {
+      "id": "8f83166b-cd0e-426f-a2b6-fb659089b3fa",
+      "course": "Santa Ventura",
+      "number": 7,
+      "par": 3
+    },
+  
+    {
+      "id": "6f8e0144-ffbb-4f98-9585-e17626be6559",
+      "course": "Santa Ventura",
+      "number": 8,
+      "par": 4
+    },
+  
+    {
+      "id": "0e418963-9399-4d7b-b7ec-a5af5318e75d",
+      "course": "Santa Ventura",
+      "number": 9,
+      "par": 5
+    }
+  
+]
